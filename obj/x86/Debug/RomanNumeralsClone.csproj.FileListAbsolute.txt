@@ -1,0 +1,5 @@
+C:\Users\Noah\Documents\Visual Studio 2015\Projects\bin\Debug\ConsoleApplication1.exe
+C:\Users\Noah\Documents\Visual Studio 2015\Projects\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Noah\Documents\Visual Studio 2015\Projects\obj\x86\Debug\RomanNumeralsClone.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Documents\Visual Studio 2015\Projects\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Noah\Documents\Visual Studio 2015\Projects\obj\x86\Debug\ConsoleApplication1.pdb
